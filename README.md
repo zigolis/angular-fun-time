@@ -1,2 +1,2 @@
-ANGULAR.JS
+Angular.js
 ==========
